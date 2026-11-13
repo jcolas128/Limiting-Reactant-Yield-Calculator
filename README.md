@@ -1,3 +1,3 @@
 # drafter-deployment-template-v1
-[Your first Drafter website!
+[Click here to open my site!
 ](https://jcolas128.github.io/Limiting-Reactant-Yield-Calculator/)
